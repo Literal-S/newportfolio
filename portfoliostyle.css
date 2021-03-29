@@ -45,7 +45,7 @@ a:hover{
       flex-wrap: wrap;
       padding: 20px;
       margin: 100px auto;
-      max-width: 2300px;
+      max-width: 2300px auto;
       overflow: hidden;
       background-color: #222222;
     }
